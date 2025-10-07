@@ -83,14 +83,14 @@
     max-width: 200px;
     font-size: 12px;
     font-weight: 300;
-   
+    border-radius: 8px 8px 0 8px;
     margin-bottom: 30px;
 }
 .s-msg{
-     border-radius: 8px 8px 0 8px;
+     border-radius: 8px 8px 0 8px !important;
 }
 .r-msg{
-    border-radius:8px 8px 8px 0;
+    border-radius:8px 8px 8px 0 !important;
 }
 .s-msg div, .r-msg div{
     text-align: center;
