@@ -75,6 +75,7 @@
 .r-msg{
     flex-direction: row-reverse;
     justify-content: start;
+        border-radius:8px 8px 8px 0 !important;
 }
 .msg{
     color: white;
@@ -88,9 +89,6 @@
 }
 .s-msg{
      border-radius: 8px 8px 0 8px !important;
-}
-.r-msg{
-    border-radius:8px 8px 8px 0 !important;
 }
 .s-msg div, .r-msg div{
     text-align: center;
